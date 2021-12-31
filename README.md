@@ -1,8 +1,8 @@
 ## Hi, I'm iKalamaZoo!
 <div align="center">
   <a href="https://github.com/iKalamaZoo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iKalamaZoo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iKalamaZoo&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iKalamaZoo&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iKalamaZoo&layout=compact&langs_count=7&theme=graywhite"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -16,7 +16,7 @@
   <img align="right" alt="ik-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/71232872?v=4?width=676&height=676">
 </div>
   
-  ##
+ ##
  
 <div> 
   <a href="https://www.youtube.com/channel/UCTRUSiEDONbAl-BALM67VnQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
