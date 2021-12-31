@@ -1,5 +1,5 @@
 ## Hi, I'm iKalamaZoo!
-<div align="center">
+
   <a href="https://github.com/iKalamaZoo">
     <tr>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=iKalamaZoo&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/></td>
