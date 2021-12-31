@@ -1,7 +1,15 @@
 ## Hi, I'm iKalamaZoo!
-    
-| [![Top Langs](https://github-readme-stats.vercel.app/api?username=iKalamaZoo&show_icons=true&theme=swift&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  |  ![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iKalamaZoo&layout=compact&langs_count=7&theme=swift)  |
-| ------------------- | ------------------- |
+
+<div align="center">
+  <a href="https://github.com/iKalamaZoo">
+    <center>
+      <table>
+        <tr>
+          <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=iKalamaZoo&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/></td>
+          <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iKalamaZoo&layout=compact&langs_count=7&theme=swift"/></td>
+        </tr>
+    </center>
+      </table>
     
 </div>
   <div style="display: inline_block">
