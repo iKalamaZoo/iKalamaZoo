@@ -6,8 +6,7 @@
       <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iKalamaZoo&layout=compact&langs_count=7&theme=swift"/></td>
     </tr>
 </div>
-
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="ik-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ik-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="ik-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
