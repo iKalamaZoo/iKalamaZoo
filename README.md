@@ -3,7 +3,7 @@
   <a href="https://github.com/iKalamaZoo">
     <tr>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=iKalamaZoo&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/></td>
-      <td><img width="600px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iKalamaZoo&layout=compact&langs_count=7&theme=swift"/></td>
+      <td><img width="500px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iKalamaZoo&layout=compact&langs_count=7&theme=swift"/></td>
     </tr>
 </div>
 <div style="display: inline_block">
