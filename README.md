@@ -1,4 +1,4 @@
-## Hi, I'm iKalamaZoo!
+## Hi, I'm iKalamaZoo, a programmer student from Fortaleza, Brazil!
 
 <div align="center">
   <a href="https://github.com/iKalamaZoo">
